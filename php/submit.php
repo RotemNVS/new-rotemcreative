@@ -1,9 +1,10 @@
 <?php
 
-
+//to do: filter if it sales go to email: rotemrnc.sales@gmail.com
+//and if it is mangement go to email: rotemstylishgroup@gmail.com
 // specify your email here
 
-$to = 'adnanarf@gmail.com';
+$to = 'rotemrnc.sales@gmail.com';
 
 
 
